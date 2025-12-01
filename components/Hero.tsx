@@ -74,7 +74,7 @@ const Hero: React.FC = () => {
                   <div className="w-3 h-3 bg-green-500 rounded-full animate-pulse"></div>
                 </div>
                 <div>
-                  <p className="font-bold text-gray-900">Dr. Sharma is online</p>
+                  <p className="font-bold text-gray-900">Doctor is online</p>
                   <p className="text-sm text-gray-500">General Physician • 15 years exp.</p>
                 </div>
                 <button className="ml-auto px-4 py-2 bg-teal-600 text-white text-xs font-bold rounded-full hover:bg-teal-700">
